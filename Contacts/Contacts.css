@@ -1,0 +1,78 @@
+.App-contacts {
+  overflow: hidden;
+  text-align: center;
+  padding: 1%;
+  margin-bottom: 75px;
+}
+
+
+.author {
+  width: 30%;
+  display: inline-block;
+  background-color: white;
+  margin: 20px;
+  padding-top: 20px;
+}
+.author:hover {
+  box-shadow: 5px 5px 50px rgba(50, 200, 150, 0.3);
+} 
+
+.author-photo {
+  border-radius: 40%;
+  width: 150px;
+  height: 150px;
+}
+
+.author-name {
+  font-size: 25px;
+  width: 100%;
+  text-align: center;
+}
+
+
+.social-media-icons {
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+}
+
+/*
+*
+*
+*
+*
+*/
+
+.new-author {
+  width: 30%;
+  display: inline-block;
+  background-color: white;
+  margin: 10px;
+  padding-top: 20px;
+  box-shadow: 5px 5px 50px rgba(50, 200, 150, 0.3);
+  border-radius: 50px;
+}
+.new-author-photo {
+  display: block;
+  width: 150px;
+  height: 150px;
+  border-radius: 40%;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+/* .contacts-title, */
+.new-author-name {
+  font-size: 25px;
+  width: 100%;
+  text-align: center;
+  background-color: rgb(50, 200, 150);
+  border-radius: 0 0 50px 50px;
+  margin: 0;
+  margin-top: 5px;
+  padding: 10px 0;
+  color: white;
+}
+/* .contacts-title {
+  border-radius: 50px ;
+} */

@@ -1,0 +1,48 @@
+.App-details .details {
+  overflow: hidden;
+}
+#proimg {
+  width: 35%;
+  height: 10%;
+  float: left;
+  left: 0;
+}
+.details {
+  float: right;
+  right: 0;
+  width: 50%;
+  height: 100%;
+  margin-left: 5px;
+}
+#id {
+  font-size: 25px;
+  text-align: left;
+  border: none;
+  border-radius: 50px;
+  display: block;
+  outline: none;
+  text-transform: uppercase;
+}
+#id2 {
+  color: #3d5c5c;
+  font-size: 20px;
+  text-align: left;
+}
+#p {
+  text-align: left;
+  color: #003333;
+}
+#p2 {
+  text-align: left;
+}
+#ig {
+  float: left;
+  margin: 5px;
+  height: 170px;
+  width: 30%;
+}
+.btn {
+  width: 50%;
+  background-color: #b8b894;
+  color: black;
+}

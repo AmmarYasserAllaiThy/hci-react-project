@@ -1,0 +1,54 @@
+.App-header {
+  overflow: hidden;
+  background-color: rgb(50, 200, 150);
+  color: white;
+  position: sticky;
+  top: 0;
+  padding: 0;
+  margin: 0;
+  z-index: 1;
+}
+
+#siteName {
+  float: left;
+  margin: 15px;
+  margin-left: 2%;
+  text-align: left;
+  vertical-align: center;
+  cursor: pointer;
+  color: white;
+}
+
+.sto {
+  margin-right: 2px;
+  padding: 0 5px;
+  background-color: white;
+  color: rgb(50, 200, 150);
+  border-radius: 10px;
+}
+
+#siteMap {
+  float: right;
+  text-align: right;
+  padding-right: 1%;
+}
+
+.siteMap-NavLinks {
+  display: inline-block;
+  height: 100%;
+  margin: 10px;
+  padding: 10px 5px;
+}
+
+.siteMap-img {
+  width: 30px;
+  height: 30px;
+}
+#siteMap #contacts {
+  border-right: 2px solid white;
+  padding-right: 20px;
+}
+
+/* .active {
+  background-color: rgba(50, 100, 50, 0.5);
+} */

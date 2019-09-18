@@ -1,0 +1,9 @@
+.App-submit {
+  text-align: center;
+}
+#submit-h1 {
+  width: 60%;
+  margin: 2% auto;
+  color: rgb(50, 200, 150);
+  font-size: 35px;
+}

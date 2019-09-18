@@ -1,0 +1,63 @@
+.App-cart {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 75px;
+}
+#h1 {
+  font-size: 21px;
+  text-align: center;
+}
+#sec2 {
+  overflow: hidden;
+  background-color: rgb(50, 150, 100);
+  color: white;
+  font-size: 20px;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 10px;
+}
+.prod {
+  float: left;
+  display: inline-block;
+  left: 0;
+  margin-left: 20px;
+  padding: 10px;
+}
+.quan {
+  float: right;
+  text-align: right;
+  display: inline-block;
+  margin-right: 50px;
+  padding: 10px;
+}
+.price {
+  float: right;
+  right: 0;
+  display: inline-block;
+  margin-right: 50px;
+  margin-top: 30px;
+  font-size: 20px;
+}
+.cart {
+  overflow: hidden;
+  width: 50%;
+  margin: auto;
+}
+#cart {
+  float: left;
+  display: inline-block;
+}
+#cartImg {
+  width: 150px;
+  height: 100px;
+}
+.buy {
+  float: left;
+  margin: 20px;
+}
+.buy {
+  margin-top: 50px;
+  float: right;
+  width: 50px;
+  background-color: #b8b894;
+}
